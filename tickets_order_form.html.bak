@@ -38,26 +38,6 @@
 			<main>
 				<h1>Order Event Tickets</h1>
 				<!-- The form starts here... -->
-				<section>	
-				
-				<form name=" registration_form" action="register_account.php" method="post">
-				
-				<fieldset>
-				</fieldset>
-				
-				<fieldset>
-				</fieldset>
-				
-				<fieldset>
-				</fieldset>
-				
-				<fieldset>
-				</fieldset>
-				
-				<fieldset>
-				</fieldset>
-				
-				</section>
 				
 			</main>
 			
